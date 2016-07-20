@@ -1,1 +1,10 @@
-/* Agrega aqui tu CSS */
+.padre{
+	
+	background-color: white;
+	width: 250px;
+	height: 250px;
+}
+.hijo{
+	
+	border:1px solid red;
+}
