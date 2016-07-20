@@ -1,0 +1,9 @@
+.padre{
+	border:1px solid brown;
+	background-color: white;
+	width: 250px;
+	height: 250px;
+}
+.hijo{
+	padding: 10px;
+}
