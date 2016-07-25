@@ -1,10 +1,19 @@
-.padre{
-	
-	background-color: white;
-	width: 250px;
-	height: 250px;
-}
 .hijo{
-	
-	border:1px solid red;
+	width: 200px;
+	border: 2px solid #EB8459;
+	padding: 10px 0px;
+}
+.hijo h4{
+	font-size: 1em;
+	margin: 0.5em 0em;
+}
+.hijo p {
+	font-size: 1em;
+}
+.left {
+	display: inline-block;
+}
+.right {
+	display: inline-block;
+	margin-left: 100px
 }

@@ -1,9 +1,19 @@
-.padre{
-	background-color: white;
-	width: 250px;
-	height: 250px;
-}
 .hijo{
 	padding: 10px;
-	border:1px solid red;
-}/* Agrega aqui tu CSS */
+	border:2px solid red;
+    width: 200px;
+}
+.hijo h4{
+	font-size: 1em;
+	margin:0.5em 0em;
+}
+.hijo p{
+	font-size:1em;
+}
+.left{
+	display:inline-block;
+}
+.right{
+	display: inline-block;
+	margin-left: 100px;
+}

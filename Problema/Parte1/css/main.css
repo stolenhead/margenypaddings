@@ -1,9 +1,12 @@
 .padre{
-	border:1px solid red;
-	background-color: white;
-	width: 250px;
-	height: 250px;
-}
-.hijo{
+	width: 200px;
+	border: 2px solid #EB8459;
 	padding: 10px;
+}
+.padre h4{
+	font-size: 1em;
+	margin: 0.5em 0em;
+}
+.padre p {
+	font-size: 1em;
 }
